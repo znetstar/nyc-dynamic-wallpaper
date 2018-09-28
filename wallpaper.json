@@ -1,0 +1,130 @@
+[
+    {
+        "fileName": "build/photos/1.jpg",
+        "isPrimary": false,
+        "isForLight": true,
+        "isForDark": false,
+        "altitude": -6.37,
+        "azimuth": 349.48
+    },
+    {
+        "fileName": "build/photos/2.jpg",
+        "isPrimary": false,
+        "isForLight": false,
+        "isForDark": false,
+        "altitude": -8.08,
+        "azimuth": 332.05
+    },
+    {
+        "fileName": "build/photos/3.jpg",
+        "isPrimary": false,
+        "isForLight": false,
+        "isForDark": false,
+        "altitude": -11.14,
+        "azimuth": 314.7
+    },
+    {
+        "fileName": "build/photos/4.jpg",
+        "isPrimary": false,
+        "isForLight": false,
+        "isForDark": false,
+        "altitude": -15.28,
+        "azimuth": 297.38
+    },
+    {
+        "fileName": "build/photos/5.jpg",
+        "isPrimary": false,
+        "isForLight": false,
+        "isForDark": false,
+        "altitude": -20.14,
+        "azimuth": 279.86
+    },
+    {
+        "fileName": "build/photos/6.jpg",
+        "isPrimary": false,
+        "isForLight": false,
+        "isForDark": false,
+        "altitude": -25.27,
+        "azimuth": 261.86
+    },
+    {
+        "fileName": "build/photos/7.jpg",
+        "isPrimary": false,
+        "isForLight": false,
+        "isForDark": false,
+        "altitude": -30.17,
+        "azimuth": 243.01
+    },
+    {
+        "fileName": "build/photos/8.jpg",
+        "isPrimary": false,
+        "isForLight": false,
+        "isForDark": false,
+        "altitude": -34.28,
+        "azimuth": 223.03
+    },
+    {
+        "fileName": "build/photos/9.jpg",
+        "isPrimary": false,
+        "isForLight": false,
+        "isForDark": false,
+        "altitude": -37.04,
+        "azimuth": 201.89
+    },
+    {
+        "fileName": "build/photos/10.jpg",
+        "isPrimary": false,
+        "isForLight": false,
+        "isForDark": false,
+        "altitude": -38.02,
+        "azimuth": 179.98
+    },
+    {
+        "fileName": "build/photos/11.jpg",
+        "isPrimary": false,
+        "isForLight": false,
+        "isForDark": false,
+        "altitude": -37.05,
+        "azimuth": 158.06
+    },
+    {
+        "fileName": "build/photos/12.jpg",
+        "isPrimary": false,
+        "isForLight": false,
+        "isForDark": false,
+        "altitude": -34.3,
+        "azimuth": 136.92
+    },
+    {
+        "fileName": "build/photos/13.jpg",
+        "isPrimary": false,
+        "isForLight": false,
+        "isForDark": false,
+        "altitude": -30.2,
+        "azimuth": 116.93
+    },
+    {
+        "fileName": "build/photos/14.jpg",
+        "isPrimary": true,
+        "isForLight": false,
+        "isForDark": false,
+        "altitude": -25.31,
+        "azimuth": 98.08
+    },
+    {
+        "fileName": "build/photos/15.jpg",
+        "isPrimary": false,
+        "isForLight": false,
+        "isForDark": false,
+        "altitude": -20.2,
+        "azimuth": 80.08
+    },
+    {
+        "fileName": "build/photos/16.jpg",
+        "isPrimary": false,
+        "isForLight": false,
+        "isForDark": true,
+        "altitude": -15.35,
+        "azimuth": 62.56
+    }
+]
