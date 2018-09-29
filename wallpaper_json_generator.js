@@ -104,10 +104,13 @@ const lines = allLines.filter((line, index) => {
    return (index % size) === 0;
 });
 
-const result = lines.map((line, index) => {
+let index = 15;
+const result = lines.map((line) => {
+    if (index > 16)
+        index = 0;
     const div = line.split("\t");
     return {
-        "fileName": `build/photos/${index + 1}.jpg`,
+        "fileName": `build/photos/${(index++) + 1}.jpg`,
         "isPrimary": ( index === 0 ),
         "isForLight": ( index === 10 ),
         "isForDark": ( index === 16 ),

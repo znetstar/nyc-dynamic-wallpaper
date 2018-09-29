@@ -1,15 +1,15 @@
 [
     {
-        "fileName": "build/photos/1.jpg",
-        "isPrimary": true,
+        "fileName": "build/photos/16.jpg",
+        "isPrimary": false,
         "isForLight": false,
-        "isForDark": false,
+        "isForDark": true,
         "altitude": -24.84,
         "azimuth": 344.74,
         "time": "00:00"
     },
     {
-        "fileName": "build/photos/2.jpg",
+        "fileName": "build/photos/17.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
@@ -18,7 +18,7 @@
         "time": "01:30"
     },
     {
-        "fileName": "build/photos/3.jpg",
+        "fileName": "build/photos/1.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
@@ -27,7 +27,7 @@
         "time": "03:00"
     },
     {
-        "fileName": "build/photos/4.jpg",
+        "fileName": "build/photos/2.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
@@ -36,7 +36,7 @@
         "time": "04:30"
     },
     {
-        "fileName": "build/photos/5.jpg",
+        "fileName": "build/photos/3.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
@@ -45,7 +45,7 @@
         "time": "06:00"
     },
     {
-        "fileName": "build/photos/6.jpg",
+        "fileName": "build/photos/4.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
@@ -54,7 +54,7 @@
         "time": "07:30"
     },
     {
-        "fileName": "build/photos/7.jpg",
+        "fileName": "build/photos/5.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
@@ -63,7 +63,7 @@
         "time": "09:00"
     },
     {
-        "fileName": "build/photos/8.jpg",
+        "fileName": "build/photos/6.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
@@ -72,7 +72,7 @@
         "time": "10:30"
     },
     {
-        "fileName": "build/photos/9.jpg",
+        "fileName": "build/photos/7.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
@@ -81,7 +81,7 @@
         "time": "12:00"
     },
     {
-        "fileName": "build/photos/10.jpg",
+        "fileName": "build/photos/8.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
@@ -90,25 +90,25 @@
         "time": "13:30"
     },
     {
-        "fileName": "build/photos/11.jpg",
+        "fileName": "build/photos/9.jpg",
         "isPrimary": false,
-        "isForLight": true,
+        "isForLight": false,
         "isForDark": false,
         "altitude": 59.22,
         "azimuth": 243.85,
         "time": "15:00"
     },
     {
-        "fileName": "build/photos/12.jpg",
+        "fileName": "build/photos/10.jpg",
         "isPrimary": false,
-        "isForLight": false,
+        "isForLight": true,
         "isForDark": false,
         "altitude": 42.84,
         "azimuth": 264.42,
         "time": "16:30"
     },
     {
-        "fileName": "build/photos/13.jpg",
+        "fileName": "build/photos/11.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
@@ -117,7 +117,7 @@
         "time": "18:00"
     },
     {
-        "fileName": "build/photos/14.jpg",
+        "fileName": "build/photos/12.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
@@ -126,7 +126,7 @@
         "time": "19:30"
     },
     {
-        "fileName": "build/photos/15.jpg",
+        "fileName": "build/photos/13.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
@@ -135,7 +135,7 @@
         "time": "21:00"
     },
     {
-        "fileName": "build/photos/16.jpg",
+        "fileName": "build/photos/14.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
@@ -144,10 +144,10 @@
         "time": "22:30"
     },
     {
-        "fileName": "build/photos/17.jpg",
+        "fileName": "build/photos/15.jpg",
         "isPrimary": false,
         "isForLight": false,
-        "isForDark": true,
+        "isForDark": false,
         "altitude": -24.91,
         "azimuth": 344.67,
         "time": "24:00"
