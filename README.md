@@ -1,8 +1,8 @@
 # nyc-dynamic-wallpaper
 
-This project creates MacOS [dynaimc wallpaper](https://itnext.io/macos-mojave-dynamic-wallpaper-fd26b0698223) from [this beautiful 8K time-lapse of Lower Manhattan](https://www.youtube.com/watch?v=DEpHwcgnZU0) using [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper). The script will download the time-lapse video from YouTube at the highest quality, then it will extract 16 photos, one photo for every 1.56 seconds out of the 25 seconds in the video. Photos will range from morning to night. The photos are extracted from an 8K video so it will display beautifully on a 4K or 5K display.
+This project creates MacOS [dynaimc wallpaper](https://itnext.io/macos-mojave-dynamic-wallpaper-fd26b0698223) from [this beautiful 8K time-lapse of Lower Manhattan](https://www.youtube.com/watch?v=CSfri4U9w28) using [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper). The script will download the time-lapse video from YouTube at the highest quality, then it will extract 24 photos, one photo for every 2.79 seconds out of the 67 seconds in the video. Photos will range from morning to night. The photos are extracted from an 8K video so it will display beautifully on a 4K or 5K display.
 
-Credit wholly goes to Enigma Fotos on YouTube for the timelapse video and mczachurski on GitHub for the wallpaper tool.
+Credit wholly goes to EarthCam on YouTube for the timelapse video and mczachurski on GitHub for the wallpaper tool.
 
 # Prerequisites
 

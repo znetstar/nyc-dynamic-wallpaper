@@ -1,130 +1,155 @@
 [
     {
         "fileName": "build/photos/1.jpg",
-        "isPrimary": false,
-        "isForLight": true,
+        "isPrimary": true,
+        "isForLight": false,
         "isForDark": false,
-        "altitude": -6.37,
-        "azimuth": 349.48
+        "altitude": -24.84,
+        "azimuth": 344.74,
+        "time": "00:00"
     },
     {
         "fileName": "build/photos/2.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
-        "altitude": -8.08,
-        "azimuth": 332.05
+        "altitude": -25.98,
+        "azimuth": 7.63,
+        "time": "01:30"
     },
     {
         "fileName": "build/photos/3.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
-        "altitude": -11.14,
-        "azimuth": 314.7
+        "altitude": -20.55,
+        "azimuth": 29.39,
+        "time": "03:00"
     },
     {
         "fileName": "build/photos/4.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
-        "altitude": -15.28,
-        "azimuth": 297.38
+        "altitude": -9.93,
+        "azimuth": 47.81,
+        "time": "04:30"
     },
     {
         "fileName": "build/photos/5.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
-        "altitude": -20.14,
-        "azimuth": 279.86
+        "altitude": 4.37,
+        "azimuth": 63.08,
+        "time": "06:00"
     },
     {
         "fileName": "build/photos/6.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
-        "altitude": -25.27,
-        "azimuth": 261.86
+        "altitude": 20.2,
+        "azimuth": 76.59,
+        "time": "07:30"
     },
     {
         "fileName": "build/photos/7.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
-        "altitude": -30.17,
-        "azimuth": 243.01
+        "altitude": 37.08,
+        "azimuth": 90.32,
+        "time": "09:00"
     },
     {
         "fileName": "build/photos/8.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
-        "altitude": -34.28,
-        "azimuth": 223.03
+        "altitude": 53.86,
+        "azimuth": 107.86,
+        "time": "10:30"
     },
     {
         "fileName": "build/photos/9.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
-        "altitude": -37.04,
-        "azimuth": 201.89
+        "altitude": 68.16,
+        "azimuth": 139.95,
+        "time": "12:00"
     },
     {
         "fileName": "build/photos/10.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
-        "altitude": -38.02,
-        "azimuth": 179.98
+        "altitude": 71.14,
+        "azimuth": 201.62,
+        "time": "13:30"
     },
     {
         "fileName": "build/photos/11.jpg",
         "isPrimary": false,
-        "isForLight": false,
+        "isForLight": true,
         "isForDark": false,
-        "altitude": -37.05,
-        "azimuth": 158.06
+        "altitude": 59.22,
+        "azimuth": 243.85,
+        "time": "15:00"
     },
     {
         "fileName": "build/photos/12.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
-        "altitude": -34.3,
-        "azimuth": 136.92
+        "altitude": 42.84,
+        "azimuth": 264.42,
+        "time": "16:30"
     },
     {
         "fileName": "build/photos/13.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
-        "altitude": -30.2,
-        "azimuth": 116.93
+        "altitude": 25.85,
+        "azimuth": 278.86,
+        "time": "18:00"
     },
     {
         "fileName": "build/photos/14.jpg",
-        "isPrimary": true,
+        "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
-        "altitude": -25.31,
-        "azimuth": 98.08
+        "altitude": 9.51,
+        "azimuth": 292.18,
+        "time": "19:30"
     },
     {
         "fileName": "build/photos/15.jpg",
         "isPrimary": false,
         "isForLight": false,
         "isForDark": false,
-        "altitude": -20.2,
-        "azimuth": 80.08
+        "altitude": -5.49,
+        "azimuth": 306.67,
+        "time": "21:00"
     },
     {
         "fileName": "build/photos/16.jpg",
         "isPrimary": false,
         "isForLight": false,
+        "isForDark": false,
+        "altitude": -17.49,
+        "azimuth": 323.91,
+        "time": "22:30"
+    },
+    {
+        "fileName": "build/photos/17.jpg",
+        "isPrimary": false,
+        "isForLight": false,
         "isForDark": true,
-        "altitude": -15.35,
-        "azimuth": 62.56
+        "altitude": -24.91,
+        "azimuth": 344.67,
+        "time": "24:00"
     }
 ]
